@@ -738,7 +738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b2e01b813e71764ab3d3590a205230d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 5717220449113942628, guid: 3e7381787d73c5e41946fe1a7d9db8b4, type: 3}
+  prefabToSpawn: {fileID: 4020507163598509070, guid: d0299dee6bcfd0b44a462c57a89706d7, type: 3}
   spawnRange: {x: 3, y: 0, z: 3}
   spawnInterval: 1
   maxContestants: 3
