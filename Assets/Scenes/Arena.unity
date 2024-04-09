@@ -739,7 +739,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabToSpawn: {fileID: 5717220449113942628, guid: 3e7381787d73c5e41946fe1a7d9db8b4, type: 3}
-  spawnRange: {x: 10, y: 0, z: 10}
+  spawnRange: {x: 3, y: 0, z: 3}
   spawnInterval: 1
   maxContestants: 3
   currentContestants: 0
